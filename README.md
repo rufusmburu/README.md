@@ -21,5 +21,5 @@
 - Bash Script: Capable of automating tasks and managing system operations
 
 ## Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+-
 - Email: your.email@example.com
